@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://donutsmp-mods.github.io/</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Vape V4 Client Cracked -->
+  <url>
+    <loc>https://donutsmp-mods.github.io/detail.html?id=vape-v4-cracked</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- OpSec Anti-Cheat Bypass -->
+  <url>
+    <loc>https://donutsmp-mods.github.io/detail.html?id=opsec-mod</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Gambling Rig -->
+  <url>
+    <loc>https://donutsmp-mods.github.io/detail.html?id=gambling-rig</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Meteor Client -->
+  <url>
+    <loc>https://donutsmp-mods.github.io/detail.html?id=meteor-client</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Krypton Client -->
+  <url>
+    <loc>https://donutsmp-mods.github.io/detail.html?id=krypton-client</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Glazed Addon DonutSMP -->
+  <url>
+    <loc>https://donutsmp-mods.github.io/detail.html?id=glazed-addon</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Base Finder & Storage Hunter -->
+  <url>
+    <loc>https://donutsmp-mods.github.io/detail.html?id=base-finder</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Auto AH Sniper -->
+  <url>
+    <loc>https://donutsmp-mods.github.io/detail.html?id=ah-sniper</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- NEW: DonutSMP Dupe Mod -->
+  <url>
+    <loc>https://donutsmp-mods.github.io/detail.html?id=dupe-client</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>

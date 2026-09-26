@@ -1,0 +1,385 @@
+[
+  {
+    "id": "vape-v4-cracked",
+    "name": "Vape V4 Client Cracked",
+    "visibility": true,
+    "version": "1.21.11",
+    "status": "UNDETECTED",
+    "size": "2.63 MB",
+    "downloads": "5,420",
+    "download_url": "mods/mod.jar",
+    "image": "img/vape.png",
+    "description": "Vape V4 Client Cracked is the ultimate free, undetectable ghost client for DonutSMP 1.21.11. Features full StorageESP & Tracers, undetectable Xray, stealth Freecam for undetected base finding, humanized AutoClicker, AimAssist, SilentAura, AutoTotem, AutoMace, AutoAnchor, and smooth Velocity reduction. Cleanly bypasses DonutSMP anti-cheat with instant GUI hotkeys and self-destruct protection.",
+    "tags": [
+      "VAPE V4 CRACKED",
+      "UNDETECTED BASE FINDER",
+      "UNDETECTED XRAY",
+      "FREECAM & TRACERS",
+      "FREE GHOST CLIENT"
+    ],
+    "requirements": [
+      "Fabric Loader",
+      "Fabric API"
+    ],
+    "highlights": [
+      "Undetected Base Finder & Stealth Freecam",
+      "Undetected Xray & StorageESP (Chests, Shulkers, Barrels)",
+      "Tracers, Trajectories & Player Outlines",
+      "Legit Combat: AutoClicker, AimAssist, SilentAura, Velocity",
+      "Utility & Auto: AutoTotem, AutoMace, AutoAnchor, Scaffold",
+      "100% Free Cracked Ghost Client with Self-Destruct"
+    ],
+    "usage": [
+      "Press 'Right Shift' to open the Vape V4 GUI menu.",
+      "Enable StorageESP, Tracers, and Freecam in the Render tab for undetected base finding.",
+      "Toggle legit AutoClicker (14-18 CPS), AutoTotem, and Velocity for safe DonutSMP PvP."
+    ]
+  },
+  {
+    "id": "opsec-mod",
+    "name": "OpSec Anti-Cheat Bypass Mod",
+    "visibility": true,
+    "version": "1.21.11 / 26.1.2",
+    "status": "UNDETECTED",
+    "size": "420 KB",
+    "downloads": "8,940",
+    "download_url": "mods/mod.jar",
+    "image": "",
+    "description": "OpSec Anti-Cheat Bypass is the essential stealth utility for DonutSMP. Automatically blocks server mod-list queries, sanitizes translation lookups, and spoofs your client so you can run Meteor Client, Glazed, and other mods 100% undetected without bans.",
+    "tags": [
+      "ANTICHEAT BYPASS",
+      "OPSEC MOD",
+      "METEOR BYPASS",
+      "STEALTH UTILITY",
+      "UNDETECTED"
+    ],
+    "requirements": [
+      "Fabric Loader",
+      "Fabric API"
+    ],
+    "highlights": [
+      "Full DonutSMP Anti-Cheat Detection Bypass",
+      "Blocks Server Mod-List Fingerprinting & Scans",
+      "Sanitizes Translation Lookups & Packets",
+      "Compatible with Meteor Client, Krypton & Vape V4",
+      "Zero FPS Impact & Completely Undetected"
+    ],
+    "usage": [
+      "Drop the OpSec .jar file into your .minecraft/mods folder along with Fabric API.",
+      "Run your preferred client (Meteor, Krypton, etc.) with OpSec installed.",
+      "Stealth mode activates automatically on server connection."
+    ],
+    "versions": [
+      {
+        "version": "1.21.11",
+        "name": "OpSec Mod v1.21.11",
+        "badges": [
+          "Recommended",
+          "Latest"
+        ],
+        "size": "420 KB",
+        "desc": "Latest stealth build for Minecraft 1.21.8 – 1.21.11 anti-cheat bypass.",
+        "download_url": "mods/mod.jar"
+      },
+      {
+        "version": "26.1.2",
+        "name": "OpSec Mod v26.1.2",
+        "badges": [
+          "Alternative",
+          "Legacy"
+        ],
+        "size": "390 KB",
+        "desc": "Legacy stealth build for Minecraft 26.1.2 client setups.",
+        "download_url": "mods/mod.jar"
+      }
+    ]
+  },
+  {
+    "id": "krypton-client",
+    "name": "Krypton Client Cracked",
+    "visibility": true,
+    "version": "1.21.11",
+    "status": "UNDETECTED",
+    "size": "1.70 MB",
+    "downloads": "3,210",
+    "download_url": "mods/mod.jar",
+    "image": "img/krypton.png",
+    "description": "Krypton Client Cracked is the all-in-one powerhouse client for DonutSMP 1.21.11 on GitHub. Features advanced combat macros, automated /ah sell sniping, storage base finding, undetected radar, and high-performance FPS optimization.",
+    "tags": [
+      "KRYPTON CLIENT GITHUB",
+      "KRYPTON CLIENT 1.21.11",
+      "KRYPTON CRACKED GITHUB",
+      "AH SELL SNIPER",
+      "BASE FINDING"
+    ],
+    "requirements": [
+      "Fabric Loader",
+      "Fabric API"
+    ],
+    "highlights": [
+      "Krypton Client 1.21.11 Full Crack",
+      "Auto-Auction & Inventory Sniping",
+      "DonutSMP Anti-Cheat Bypasses",
+      "Automatic Base Finding & StorageESP"
+    ],
+    "usage": [
+      "Open Krypton GUI with '~'.",
+      "Enable and customize overlays from the HUD tab (Active + Edit).",
+      "Now its Krypton Client Free Cracked for Minecraft 1.21.11"
+    ]
+  },
+  {
+    "id": "gambling-rig",
+    "name": "Gambling Rig",
+    "visibility": true,
+    "version": "1.21.11",
+    "status": "UNDETECTED",
+    "size": "611 KB",
+    "downloads": "255",
+    "download_url": "mods/mod.jar",
+    "image": "img/gamblerig.png",
+    "description": "Gambling Rig is a dispenser manipulation mod that lets you control dispenser outcomes and decide which side wins. It rigs casino mechanics by turning random rolls into player-controlled results for consistent winning rounds.",
+    "tags": [
+      "PAPER GAME",
+      "50/50",
+      "BLACKJACK"
+    ],
+    "requirements": [
+      "Fabric Loader",
+      "Fabric API"
+    ],
+    "highlights": [
+      "Paper Game",
+      "50/50",
+      "Blackjack"
+    ],
+    "usage": [
+      "Press 'P' to open the Gambling Rig menu and apply your settings.",
+      "Rename dispenser items to 1 through 9 before using the mod.",
+      "Mod disguised as Enhanced Vanilla"
+    ]
+  },
+  {
+    "id": "meteor-client",
+    "name": "Meteor Client",
+    "visibility": true,
+    "version": "1.21.11 / 26.1.2",
+    "status": "UNDETECTED",
+    "size": "5.09 MB",
+    "downloads": "4,820",
+    "download_url": "mods/mod.jar",
+    "image": "img/meteor.png",
+    "description": "Meteor Client is the most versatile combat and utility cheat client for DonutSMP. Features Crystal Aura, Auto-Totem, StorageESP, Tracers, and automation modules. Fully undetected on DonutSMP when run alongside the OpSec stealth mod.",
+    "tags": [
+      "PVP",
+      "OPSEC BYPASS",
+      "ESP",
+      "AUTOMATION",
+      "UNDETECTED"
+    ],
+    "requirements": [
+      "Fabric Loader",
+      "Fabric API",
+      "OpSec Mod (REQUIRED!)"
+    ],
+    "highlights": [
+      "Undetected with OpSec Mod on DonutSMP",
+      "Crystal Aura & Auto-Totem",
+      "Blocks, Player & Storage ESP",
+      "Custom Module Config & Combat Macros"
+    ],
+    "usage": [
+      "Open Meteor GUI with 'Right Shift'.",
+      "Install OpSec in your .minecraft/mods folder for 100% undetected stealth on DonutSMP.",
+      "Enable and customize modules from the HUD & Combat tabs."
+    ],
+    "versions": [
+      {
+        "version": "1.21.11",
+        "name": "Meteor Client v1.21.11",
+        "badges": [
+          "Recommended",
+          "OpSec REQUIRED"
+        ],
+        "size": "5.09 MB",
+        "desc": "Latest stable release for Minecraft 1.21.8 – 1.21.11 with full OpSec support.",
+        "download_url": "mods/mod.jar"
+      },
+      {
+        "version": "26.1.2",
+        "name": "Meteor Client v26.1.2",
+        "badges": [
+          "Alternative",
+          "OpSec REQUIRED"
+        ],
+        "size": "5.08 MB",
+        "desc": "Legacy release for Minecraft 26.1.2 compatible client setups.",
+        "download_url": "mods/mod.jar"
+      }
+    ]
+  },
+  {
+    "id": "glazed-addon",
+    "name": "Glazed Addon (DonutSMP)",
+    "visibility": true,
+    "version": "1.21.11 / 26.1.2",
+    "status": "UNDETECTED",
+    "size": "4.98 MB",
+    "downloads": "9,340",
+    "download_url": "mods/mod.jar",
+    "image": "img/meteor.png",
+    "description": "Glazed is the #1 Meteor Client addon built exclusively for DonutSMP. Features automated Auction House sniping, coordinate snapping, underground tunnel base hunting, crystal macros, and seamless OpSec stealth integration.",
+    "tags": [
+      "GLAZED ADDON",
+      "METEOR ADDON",
+      "AH SNIPER",
+      "BASE FINDER",
+      "UNDETECTED"
+    ],
+    "requirements": [
+      "Fabric Loader",
+      "Fabric API",
+      "Meteor Client",
+      "OpSec Mod (Recommended)"
+    ],
+    "highlights": [
+      "Automated /AH Auction House Sniping",
+      "Underground Tunnel & Base Hunting Coordinates",
+      "StorageESP & Player Coordinate Snapper",
+      "Fully Undetected on DonutSMP 1.21+"
+    ],
+    "usage": [
+      "Install Meteor Client and OpSec into your .minecraft/mods folder.",
+      "Drop Glazed addon into the mods directory alongside Fabric API.",
+      "Open Meteor GUI ('Right Shift') to access the new 'Glazed' tab.",
+      "Configure Auto-AH and Base Finding modules."
+    ],
+    "versions": [
+      {
+        "version": "1.21.11",
+        "name": "Glazed Addon v1.21.11",
+        "badges": [
+          "Recommended",
+          "Latest"
+        ],
+        "size": "4.98 MB",
+        "desc": "Latest stable build for Minecraft 1.21.8 – 1.21.11 with full DonutSMP support.",
+        "download_url": "mods/mod.jar"
+      },
+      {
+        "version": "26.1.2",
+        "name": "Glazed Addon v26.1.2",
+        "badges": [
+          "Alternative",
+          "Legacy"
+        ],
+        "size": "4.95 MB",
+        "desc": "Legacy build for Minecraft 26.1.2 compatible setups.",
+        "download_url": "mods/mod.jar"
+      }
+    ]
+  },
+  {
+    "id": "base-finder",
+    "name": "DonutSMP Base Finder & Storage Hunter",
+    "visibility": true,
+    "version": "1.21.11",
+    "status": "UNDETECTED",
+    "size": "4.72 MB",
+    "downloads": "11,200",
+    "download_url": "mods/mod.jar",
+    "image": "img/vape.png",
+    "description": "The ultimate base hunting utility for DonutSMP. Scans ungenerated chunk borders, tracks hidden chest/shulker/barrel clusters through blocks, and provides undetected stealth Freecam with instant waypoint tracers.",
+    "tags": [
+      "BASE FINDER",
+      "STORAGE ESP",
+      "CHUNK HUNTER",
+      "FREECAM",
+      "UNDETECTED"
+    ],
+    "requirements": [
+      "Fabric Loader",
+      "Fabric API"
+    ],
+    "highlights": [
+      "Bedrock & Underground Base ESP Radar",
+      "Storage Tracker (Chest, Shulker, Ender Chest, Barrels)",
+      "Stealth Freecam (No Server Packet Triggers)",
+      "Waypoints & Coordinate Logging"
+    ],
+    "usage": [
+      "Drop the .jar file into your .minecraft/mods folder.",
+      "Press 'B' or 'Right Shift' in-game to toggle Base Radar HUD.",
+      "Use stealth Freecam to scout surrounding underground chunks."
+    ]
+  },
+  {
+    "id": "ah-sniper",
+    "name": "Auto AH Sniper & Economy Bot",
+    "visibility": true,
+    "version": "1.21.11",
+    "status": "UNDETECTED",
+    "size": "4.89 MB",
+    "downloads": "7,810",
+    "download_url": "mods/mod.jar",
+    "image": "img/krypton.png",
+    "description": "Automated Auction House sniping bot for DonutSMP. Instantly buys underpriced items on /ah within milliseconds of listing, auto-relists for maximum profit, and manages trading economy macros.",
+    "tags": [
+      "AH SNIPER",
+      "ECONOMY MACRO",
+      "AUTO BUY",
+      "DONUTSMP MONEY",
+      "UNDETECTED"
+    ],
+    "requirements": [
+      "Fabric Loader",
+      "Fabric API"
+    ],
+    "highlights": [
+      "Millisecond /AH Auction Sniping Engine",
+      "Auto-Relist & Profit Maximizer",
+      "Custom Price Thresholds & Item Blacklists",
+      "Anti-AFK & Safe Packet Delay"
+    ],
+    "usage": [
+      "Place .jar in your .minecraft/mods folder and launch Minecraft.",
+      "Press 'K' or open the HUD to set target buy prices on /ah.",
+      "Enable Auto-Snipe and let the bot trade automatically."
+    ]
+  },
+  {
+    "id": "dupe-client",
+    "name": "DonutSMP Dupe Mod",
+    "visibility": false,
+    "version": "1.21.11",
+    "status": "UNDETECTED",
+    "size": "3.76 MB",
+    "downloads": "1,524",
+    "download_url": "mods/mod.jar",
+    "image": "",
+    "description": "Download the working DonutSMP Dupe Mod for Minecraft 1.21.11. Features undetected packet-based item duplication, ender chest exploits, and /ah glitches specifically created for Donut SMP. 100% free download on Fabric 1.21.11.",
+    "tags": [
+      "DONUT SMP DUPE MOD",
+      "DONUTSMP DUPE",
+      "DONUT DUPE MOD",
+      "DONUT SMP DUPE",
+      "DONUTSMP DUPE MOD"
+    ],
+    "requirements": [
+      "Fabric Loader",
+      "Fabric API"
+    ],
+    "highlights": [
+      "Working DonutSMP Dupe Methods 1.21.11",
+      "Packet-Based Dupe Logic",
+      "Ender Chest & /AH Glitch Bypass",
+      "Tested Undetected on DonutSMP"
+    ],
+    "usage": [
+      "Install Fabric Loader and Fabric API first.",
+      "Do '/rtp' and do '/home' 1 quickly after teleporting.",
+      "Put item in ender chest and click dupe Hotkey ('~' default) or type command in chat.",
+      "Disconnect and enter other server, then reconnect to DonutSMP to dupe."
+    ]
+  }
+]

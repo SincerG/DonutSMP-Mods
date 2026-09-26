@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tool Details | Cracked Clients DonutSMP</title>
+
+    <!-- SEO & Metadata -->
+    <meta name="description" id="meta-desc"
+        content="Download undetected DonutSMP clients, cheats, and mods with direct download links and full installation guides.">
+    <meta name="keywords"
+        content="DonutSMP cheat, DonutSMP client, Meteor Client, Krypton Client, Vape V4, DonutSMP mods, DonutSMP Rig, free Minecraft clients">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph / Discord Embeds -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" id="og-title" content="Tool Details | Cracked Clients DonutSMP">
+    <meta property="og:description" id="og-desc"
+        content="Download undetected DonutSMP clients, cheats, and mods with direct download links.">
+    <meta property="og:image" id="og-img" content="https://donutsmp-mods.github.io/img/krypton.png">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" id="tw-title" content="Tool Details | Cracked Clients DonutSMP">
+    <meta name="twitter:description" id="tw-desc"
+        content="Download undetected DonutSMP clients, cheats, and mods with direct download links.">
+    <meta name="twitter:image" id="tw-img" content="https://donutsmp-mods.github.io/img/krypton.png">
+
+    <!-- Favicon & Search Engine Logos -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="icon" type="image/png" sizes="192x192" href="favicon.png">
+    <link rel="apple-touch-icon" href="favicon.png">
+
+    <!-- Fonts and Styling -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="detail-page">
+
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="logo">CRACKED<span>CLIENTS</span></div>
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="index.html#installation">Installation</a>
+        </div>
+    </nav>
+
+    <div class="container detail-container">
+        <!-- Top Section: Main Content & Media -->
+        <div class="detail-top-grid">
+            <div class="main-info-card">
+                <span class="status-badge" id="det-status">UNDETECTED</span>
+                <h1 id="det-title" style="font-size: 3.5rem; margin: 15px 0; font-weight: 800;">Loading...</h1>
+                <p id="det-desc" style="color: var(--text-dim); font-size: 1.1rem; margin-bottom: 25px;"></p>
+
+                <div class="tags" id="det-tags"></div>
+
+                <div class="action-btns">
+                    <a href="#" class="btn-download" id="download-link">Download</a>
+                    <a href="index.html" class="btn-back">Back To All Mods</a>
+                </div>
+            </div>
+
+            <div class="side-panel">
+                <!-- Media Card with 16:9 Aspect Ratio -->
+                <div class="media-card">
+                    <img src="" alt="Preview" id="det-img">
+                </div>
+
+                <!-- Stats Grid -->
+                <div class="stats-grid">
+                    <div class="stat-box">
+                        <span class="req-label">MINECRAFT VERSION</span>
+                        <strong id="det-ver"></strong>
+                    </div>
+                    <div class="stat-box">
+                        <span class="req-label">REQUIREMENTS</span>
+                        <strong id="det-req"></strong>
+                    </div>
+                    <div class="stat-box">
+                        <span class="req-label">SIZE</span>
+                        <strong id="det-size"></strong>
+                    </div>
+                    <div class="stat-box">
+                        <span class="req-label">TOTAL DOWNLOADS</span>
+                        <strong id="det-dl"></strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Bottom Section: Detailed Lists -->
+        <div class="detail-bottom-grid">
+            <div class="info-card">
+                <h3 style="margin-bottom: 15px; color: var(--accent);">Highlights</h3>
+                <ul id="det-highlights" class="detail-list"></ul>
+            </div>
+            <div class="info-card">
+                <h3 style="margin-bottom: 15px; color: var(--accent);">Usage Notes</h3>
+                <ul id="det-usage" class="detail-list"></ul>
+            </div>
+            <div class="info-card">
+                <h3 style="margin-bottom: 15px; color: var(--accent);">Quick Install</h3>
+                <ul class="detail-list">
+                    <li>Install Fabric Loader and Fabric API</li>
+                    <li>Move the jar file into .minecraft/mods</li>
+                    <li>Start Minecraft with Fabric profile</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Version Selection Modal -->
+    <div id="version-modal" class="modal-overlay">
+        <div class="modal-box version-modal-box">
+            <button type="button" class="modal-close-btn" id="version-modal-close" aria-label="Close modal">&times;</button>
+            <div class="version-modal-header">
+                <div class="version-modal-icon">
+                    <span class="material-symbols-outlined">download_for_offline</span>
+                </div>
+                <h3 class="modal-title" id="version-modal-title">Select Version</h3>
+                <p class="modal-desc" id="version-modal-desc">Choose your preferred client release to download:</p>
+            </div>
+            <div class="version-list" id="version-list-container">
+                <!-- Dynamically populated from products.json -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer
+        style="padding: 60px; text-align: center; color: #475569; font-size: 0.85rem; border-top: 1px solid rgba(255,255,255,0.05);">
+        <p>&copy; 2026 Cracked Clients DonutSMP. Cracked Clients is a third-party utility mod hub. We are not affiliated
+            with Mojang or Microsoft.</p>
+    </footer>
+
+    <!-- Logic for Dynamic Loading, Fallbacks & Version Selection -->
+    <script>
+        async function loadDetail() {
+            try {
+                const params = new URLSearchParams(window.location.search);
+                const id = params.get('id');
+                const response = await fetch('./products.json');
+                const products = await response.json();
+                const p = products.find(item => item.id === id);
+
+                if (p) {
+                    // Update Page Title and SEO Meta Tags dynamically
+                    document.title = `${p.name} | Cracked Clients DonutSMP`;
+                    
+                    // Set dynamic canonical URL and og:url for each individual mod
+                    let canonicalTag = document.querySelector('link[rel="canonical"]');
+                    if (!canonicalTag) {
+                        canonicalTag = document.createElement('link');
+                        canonicalTag.rel = 'canonical';
+                        document.head.appendChild(canonicalTag);
+                    }
+                    canonicalTag.href = window.location.href;
+
+                    let ogUrl = document.querySelector('meta[property="og:url"]');
+                    if (!ogUrl) {
+                        ogUrl = document.createElement('meta');
+                        ogUrl.setAttribute('property', 'og:url');
+                        document.head.appendChild(ogUrl);
+                    }
+                    ogUrl.setAttribute('content', window.location.href);
+
+                    const metaDesc = document.getElementById('meta-desc');
+                    if (metaDesc) metaDesc.setAttribute('content', p.description);
+
+                    const ogTitle = document.getElementById('og-title');
+                    if (ogTitle) ogTitle.setAttribute('content', `${p.name} | Cracked Clients DonutSMP`);
+
+                    const ogDesc = document.getElementById('og-desc');
+                    if (ogDesc) ogDesc.setAttribute('content', p.description);
+
+                    const twTitle = document.getElementById('tw-title');
+                    if (twTitle) twTitle.setAttribute('content', `${p.name} | Cracked Clients DonutSMP`);
+
+                    const twDesc = document.getElementById('tw-desc');
+                    if (twDesc) twDesc.setAttribute('content', p.description);
+
+                    if (p.image) {
+                        const fullImageUrl = new URL(p.image, window.location.href).href;
+                        const ogImg = document.getElementById('og-img');
+                        if (ogImg) ogImg.setAttribute('content', fullImageUrl);
+                        const twImg = document.getElementById('tw-img');
+                        if (twImg) twImg.setAttribute('content', fullImageUrl);
+                    }
+
+                    document.getElementById('det-title').innerText = p.name;
+                    const statusEl = document.getElementById('det-status');
+                    statusEl.innerText = p.status;
+                    if (p.status && p.status.trim().toUpperCase() === 'DETECTED') {
+                        statusEl.classList.add('detected');
+                    } else {
+                        statusEl.classList.remove('detected');
+                    }
+                    document.getElementById('det-desc').innerText = p.description;
+                    document.getElementById('det-ver').innerText = p.version;
+                    document.getElementById('det-size').innerText = p.size;
+                    document.getElementById('det-dl').innerText = p.downloads;
+
+                        // Handle Download Link and Version Selection Modal
+                        const dlBtn = document.getElementById('download-link');
+                        const versionModal = document.getElementById('version-modal');
+                        const versionListContainer = document.getElementById('version-list-container');
+                        const versionModalClose = document.getElementById('version-modal-close');
+
+                        function trackDownload(modId) {
+                            if (!modId) return;
+                            try {
+                                fetch(`https://countapi.mileshilliard.com/api/v1/hit/donutsmp_v1_${modId}`, { method: 'GET', mode: 'cors' }).catch(() => {});
+                            } catch (err) {}
+                        }
+
+                        if (p.versions && Array.isArray(p.versions) && p.versions.length > 1) {
+                            // Render Version Selection Options
+                            document.getElementById('version-modal-title').innerText = `Select ${p.name} Version`;
+                            document.getElementById('version-modal-desc').innerText = `Choose your Minecraft version build for ${p.name}:`;
+                            
+                            versionListContainer.innerHTML = p.versions.map(v => {
+                                let badgeList = [];
+                                if (Array.isArray(v.badges)) {
+                                    badgeList = v.badges;
+                                } else if (v.badge) {
+                                    badgeList = [v.badge];
+                                }
+
+                                const badgesHtml = badgeList.map(b => {
+                                    const bLower = b.toLowerCase();
+                                    let colorClass = 'alt';
+                                    if (bLower.includes('recommend')) colorClass = '';
+                                    else if (bLower.includes('latest') || bLower.includes('active') || bLower.includes('stable')) colorClass = 'green';
+                                    else if (bLower.includes('opsec') || bLower.includes('fabric')) colorClass = 'blue';
+                                    else if (bLower.includes('bypass') || bLower.includes('stealth')) colorClass = 'purple';
+                                    return `<span class="version-badge ${colorClass}">${b}</span>`;
+                                }).join('');
+
+                                const targetVer = (v.version || p.version || '1.21.11').trim().replace(/[^a-zA-Z0-9.-]/g, '-');
+                                const fileName = `${p.id}-${targetVer}.jar`;
+                                const downloadUrl = v.download_url || 'mods/mod.jar';
+                                return `
+                                    <div class="version-item-card">
+                                        <div class="version-item-info">
+                                            <div class="version-item-title-row">
+                                                <span class="version-item-name">${v.name || v.version}</span>
+                                                ${badgesHtml}
+                                            </div>
+                                            ${v.desc ? `<p class="version-item-desc">${v.desc}</p>` : ''}
+                                            <span class="version-item-meta">
+                                                <span class="material-symbols-outlined" style="font-size:16px;">folder_zip</span>
+                                                ${v.size || p.size}
+                                            </span>
+                                        </div>
+                                        <a href="${downloadUrl}" download="${fileName}" class="btn-version-download">
+                                            <span class="material-symbols-outlined" style="font-size:18px;">download</span>
+                                            Download
+                                        </a>
+                                    </div>
+                                `;
+                            }).join('');
+
+                            // Attach tracking to version buttons
+                            versionListContainer.querySelectorAll('.btn-version-download').forEach(btn => {
+                                btn.addEventListener('click', () => trackDownload(p.id));
+                            });
+
+                            // Open modal on Download button click
+                            dlBtn.addEventListener('click', function(e) {
+                                e.preventDefault();
+                                versionModal.classList.add('active');
+                            });
+
+                            // Modal Close Listeners
+                            versionModalClose.addEventListener('click', function() {
+                                versionModal.classList.remove('active');
+                            });
+
+                            versionModal.addEventListener('click', function(e) {
+                                if (e.target === versionModal) {
+                                    versionModal.classList.remove('active');
+                                }
+                            });
+
+                            // Close on ESC key
+                            document.addEventListener('keydown', function(e) {
+                                if (e.key === 'Escape' && versionModal.classList.contains('active')) {
+                                    versionModal.classList.remove('active');
+                                }
+                            });
+                        } else {
+                            // Single version direct download
+                            const targetVer = (p.version || '1.21.11').split('/')[0].trim().replace(/[^a-zA-Z0-9.-]/g, '-');
+                            const fileName = `${p.id}-${targetVer}.jar`;
+                            dlBtn.href = p.download_url || "mods/mod.jar";
+                            dlBtn.setAttribute('download', fileName);
+                            dlBtn.addEventListener('click', () => trackDownload(p.id));
+                        }
+
+                    // Image Fallback Logic (16:9 branded placeholder)
+                    const imgElement = document.getElementById('det-img');
+                    const fallback = "https://placehold.co/1920x1080/1a1a1f/f39c12?text=For+Legal+Reason+Preview+Unavailable";
+
+                    imgElement.src = p.image || fallback;
+                    imgElement.alt = `${p.name} - DonutSMP Client Mods Preview`;
+
+                    imgElement.onerror = function () {
+                        this.src = fallback;
+                        this.alt = "Preview Unavailable for this DonutSMP Mod";
+                        this.onerror = null;
+                    };
+
+                    // Inject List Data
+                    document.getElementById('det-tags').innerHTML = p.tags.map(t => `<span class="tag">${t}</span>`).join('');
+                    document.getElementById('det-req').innerHTML = p.requirements.join('<br>');
+                    document.getElementById('det-highlights').innerHTML = p.highlights.map(h => `<li>${h}</li>`).join('');
+                    document.getElementById('det-usage').innerHTML = p.usage.map(u => `<li>${u}</li>`).join('');
+                } else {
+                    // Redirect or Error if product ID is invalid
+                    document.querySelector('.detail-container').innerHTML = "<h1 style='text-align:center; padding:100px;'>Product not found.</h1>";
+                }
+            } catch (e) {
+                console.error("Critical error loading product details:", e);
+            }
+        }
+
+        window.addEventListener('DOMContentLoaded', loadDetail);
+    </script>
+</body>
+
+</html>
